@@ -1,11 +1,6 @@
 import capitalize from '@/tools/capitalice';
 import React from 'react';
-const charts = [
-	'culo',
-	'tetas',
-	'sexo',
-	'coñito',
-];
+const charts = ['culo', 'tetas', 'sexo'];
 const finance = () => {
 	return (
 		<section className="bg-white dark:bg-gray-900">
